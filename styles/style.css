@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #000;
+}
+
+#myCanvas{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    background: #eee;
+}
+
+#spaceToRestart{
+    font-size: 30px;
+    width: 325px;
+    color: #fff;
+    font-weight: 900;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
